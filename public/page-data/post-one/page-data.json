@@ -1,0 +1,1 @@
+{"componentChunkName":"component---src-templates-blog-post-js","path":"/post-one","webpackCompilationHash":"","result":{"data":{"markdownRemark":{"html":"<p>This is my very first blogpost.</p>","frontmatter":{"path":"/post-one","title":"My First Gatsby Blogpost","author":"Player 1","date":"2019-09-31"}}},"pageContext":{"isCreatedByStatefulCreatePages":false}}}
